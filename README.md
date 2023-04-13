@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teom275" alt="teom275" /></a> </p>
 
-<h3 align="left">Connect with me: linkedin.com/in/teomaggio/?locale=en_US</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/teomaggio/</h3>
 <p align="left">
 </p>
 
