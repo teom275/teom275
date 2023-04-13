@@ -1,4 +1,4 @@
-<h3 align="center">An Engineer with Physicist Heart</h3>
+<h3 align="center">An Engineer with Physics background</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teom275" alt="teom275" /></a> </p>
 
