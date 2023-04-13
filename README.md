@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teom275&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
