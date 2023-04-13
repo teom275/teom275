@@ -1,4 +1,4 @@
-<h3 align="center">An Engineer with Physics background</h3>
+<h3 align="center">Engineer with Physics background</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
