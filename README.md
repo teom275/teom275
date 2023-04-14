@@ -1,5 +1,7 @@
 ## Hello there! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
+<iframe src="https://giphy.com/embed/CaSmWHPi53aaoS6u9w" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/spaceship-starship-therovelab-CaSmWHPi53aaoS6u9w">via GIPHY</a></p>
+
 **Glad to see you here!** <br> The green dots on my [**GitHub profile**](https://github.com/SebastianLezama) represent my journey :running_man: - From studying **python** and learning testing fundamentals, to practicing **Leetcode** and building my first **web app** with **JavaScript, HTML** and **CSS**. Currently I'm diving into the front-end side of things with **ReactJS** and also learning **JAVA** and **JUnit5**. I studied sound recording and audio post-production in **Tecson** and have been working as a professional brewer for almost 10 years.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SebastianLezama) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=SebastianLezama.visitor-badge)](https://github.com/SebastianLezama) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SebastianLezama)
