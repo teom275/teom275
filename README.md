@@ -1,6 +1,6 @@
 <h3 align="center">Engineer with Physics background</h3>
 
-## Hello there! <img src="<iframe src="https://giphy.com/embed/cxIjOLKZPc30cSSE5E" width="480" height="372" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/space-galaxy-spaceship-cxIjOLKZPc30cSSE5E">via GIPHY</a></p>f" width="50">
+## Hello there! <img src="https://giphy.com/stickers/space-galaxy-spaceship-cxIjOLKZPc30cSSE5E" width="50">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/teom275) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=teom275.visitor-badge)](https://github.com/teom275) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/teom275)
 
