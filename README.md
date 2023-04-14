@@ -6,4 +6,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teom275&show_icons=true&locale=en&layout=compact" alt="teom275" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teom275&show_icons=true&locale=en" alt="teom275" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teom275&show_icons=true&locale=en" alt="teom275" /></p> 
