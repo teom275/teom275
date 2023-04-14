@@ -1,4 +1,4 @@
-## Hello there! <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://giphy.com/stickers/spaceship-starship-therovelab-CaSmWHPi53aaoS6u9w)" width="50">
+## Hello there! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 
 **Glad to see you here!** <br> The green dots on my [**GitHub profile**](https://github.com/SebastianLezama) represent my journey :running_man: - From studying **python** and learning testing fundamentals, to practicing **Leetcode** and building my first **web app** with **JavaScript, HTML** and **CSS**. Currently I'm diving into the front-end side of things with **ReactJS** and also learning **JAVA** and **JUnit5**. I studied sound recording and audio post-production in **Tecson** and have been working as a professional brewer for almost 10 years.
